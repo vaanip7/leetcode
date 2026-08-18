@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/vaanip7/leetcode/tree/master/0389-find-the-difference) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/vaanip7/leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
