@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/vaanip7/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vaanip7/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaanip7/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -41,8 +42,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/vaanip7/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vaanip7/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaanip7/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Math
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vaanip7/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Array
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaanip7/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaanip7/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaanip7/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
