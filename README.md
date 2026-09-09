@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vaanip7/leetcode/tree/master/0039-combination-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaanip7/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Divide and Conquer
 |  |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaanip7/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vaanip7/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/vaanip7/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
