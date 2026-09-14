@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/vaanip7/leetcode/tree/master/0836-rectangle-overlap) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vaanip7/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/vaanip7/leetcode/tree/master/0039-combination-sum) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vaanip7/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
