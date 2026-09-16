@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/vaanip7/leetcode/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/vaanip7/leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/vaanip7/leetcode/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/vaanip7/leetcode/tree/master/0836-rectangle-overlap) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vaanip7/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
@@ -74,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/vaanip7/leetcode/tree/master/0836-rectangle-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/vaanip7/leetcode/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/vaanip7/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
