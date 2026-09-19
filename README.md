@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/vaanip7/leetcode/tree/master/0176-second-highest-salary) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/vaanip7/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 ## Tree
 |  |
 | ------- |
