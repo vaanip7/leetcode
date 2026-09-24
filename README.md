@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vaanip7/leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/vaanip7/leetcode/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/vaanip7/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vaanip7/leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vaanip7/leetcode/tree/master/0013-roman-to-integer) |
+| [0387-first-unique-character-in-a-string](https://github.com/vaanip7/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vaanip7/leetcode/tree/master/0389-find-the-difference) |
 | [3498-reverse-degree-of-a-string](https://github.com/vaanip7/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
@@ -106,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/vaanip7/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vaanip7/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vaanip7/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
