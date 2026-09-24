@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/vaanip7/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/vaanip7/leetcode/tree/master/0414-third-maximum-number) |
+| [2974-minimum-number-game](https://github.com/vaanip7/leetcode/tree/master/2974-minimum-number-game) |
 ## Database
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/vaanip7/leetcode/tree/master/0039-combination-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaanip7/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0414-third-maximum-number](https://github.com/vaanip7/leetcode/tree/master/0414-third-maximum-number) |
+| [2974-minimum-number-game](https://github.com/vaanip7/leetcode/tree/master/2974-minimum-number-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2974-minimum-number-game](https://github.com/vaanip7/leetcode/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/vaanip7/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vaanip7/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/vaanip7/leetcode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
