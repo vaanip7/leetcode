@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vaanip7/leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/vaanip7/leetcode/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/vaanip7/leetcode/tree/master/0836-rectangle-overlap) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vaanip7/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vaanip7/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/vaanip7/leetcode/tree/master/0039-combination-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaanip7/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0414-third-maximum-number](https://github.com/vaanip7/leetcode/tree/master/0414-third-maximum-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vaanip7/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vaanip7/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/vaanip7/leetcode/tree/master/2974-minimum-number-game) |
 ## Divide and Conquer
