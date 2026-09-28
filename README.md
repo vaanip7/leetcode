@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vaanip7/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vaanip7/leetcode/tree/master/0389-find-the-difference) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaanip7/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaanip7/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vaanip7/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3498-reverse-degree-of-a-string](https://github.com/vaanip7/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
@@ -154,8 +155,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaanip7/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaanip7/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaanip7/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaanip7/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
