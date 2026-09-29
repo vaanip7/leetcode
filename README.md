@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/vaanip7/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vaanip7/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vaanip7/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vaanip7/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vaanip7/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vaanip7/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/vaanip7/leetcode/tree/master/2974-minimum-number-game) |
@@ -162,4 +163,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaanip7/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaanip7/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vaanip7/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vaanip7/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vaanip7/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
