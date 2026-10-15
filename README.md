@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vaanip7/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1667-fix-names-in-a-table](https://github.com/vaanip7/leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/vaanip7/leetcode/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/vaanip7/leetcode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vaanip7/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/vaanip7/leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Tree
