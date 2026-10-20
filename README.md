@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vaanip7/leetcode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/vaanip7/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vaanip7/leetcode/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/vaanip7/leetcode/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vaanip7/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/vaanip7/leetcode/tree/master/0039-combination-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaanip7/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vaanip7/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/vaanip7/leetcode/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/vaanip7/leetcode/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/vaanip7/leetcode/tree/master/0575-distribute-candies) |
 | [1550-three-consecutive-odds](https://github.com/vaanip7/leetcode/tree/master/1550-three-consecutive-odds) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaanip7/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0189-rotate-array](https://github.com/vaanip7/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vaanip7/leetcode/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/vaanip7/leetcode/tree/master/0443-string-compression) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vaanip7/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
