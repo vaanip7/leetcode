@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/vaanip7/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/vaanip7/leetcode/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/vaanip7/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vaanip7/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/vaanip7/leetcode/tree/master/2974-minimum-number-game) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vaanip7/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vaanip7/leetcode/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/vaanip7/leetcode/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/vaanip7/leetcode/tree/master/0575-distribute-candies) |
+| [0977-squares-of-a-sorted-array](https://github.com/vaanip7/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/vaanip7/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vaanip7/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vaanip7/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vaanip7/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vaanip7/leetcode/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/vaanip7/leetcode/tree/master/0443-string-compression) |
+| [0977-squares-of-a-sorted-array](https://github.com/vaanip7/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vaanip7/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
