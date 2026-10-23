@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vaanip7/leetcode/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/vaanip7/leetcode/tree/master/0575-distribute-candies) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vaanip7/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/vaanip7/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vaanip7/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaanip7/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vaanip7/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vaanip7/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/vaanip7/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/vaanip7/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
