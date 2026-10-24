@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vaanip7/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2974-minimum-number-game](https://github.com/vaanip7/leetcode/tree/master/2974-minimum-number-game) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vaanip7/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vaanip7/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Database
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vaanip7/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vaanip7/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vaanip7/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vaanip7/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vaanip7/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Divide and Conquer
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/vaanip7/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vaanip7/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vaanip7/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vaanip7/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/vaanip7/leetcode/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaanip7/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vaanip7/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vaanip7/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/vaanip7/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vaanip7/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/vaanip7/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Enumeration
 |  |
 | ------- |
