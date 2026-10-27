@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vaanip7/leetcode/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/vaanip7/leetcode/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/vaanip7/leetcode/tree/master/0575-distribute-candies) |
+| [0682-baseball-game](https://github.com/vaanip7/leetcode/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaanip7/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1254-number-of-closed-islands](https://github.com/vaanip7/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1550-three-consecutive-odds](https://github.com/vaanip7/leetcode/tree/master/1550-three-consecutive-odds) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/vaanip7/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/vaanip7/leetcode/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/vaanip7/leetcode/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/vaanip7/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/vaanip7/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/vaanip7/leetcode/tree/master/0682-baseball-game) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaanip7/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vaanip7/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
