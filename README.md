@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/vaanip7/leetcode/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/vaanip7/leetcode/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/vaanip7/leetcode/tree/master/1211-queries-quality-and-percentage) |
+| [1280-students-and-examinations](https://github.com/vaanip7/leetcode/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vaanip7/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/vaanip7/leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1667-fix-names-in-a-table](https://github.com/vaanip7/leetcode/tree/master/1667-fix-names-in-a-table) |
