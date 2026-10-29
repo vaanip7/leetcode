@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vaanip7/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/vaanip7/leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/vaanip7/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/vaanip7/leetcode/tree/master/0221-maximal-square) |
 | [0414-third-maximum-number](https://github.com/vaanip7/leetcode/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/vaanip7/leetcode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/vaanip7/leetcode/tree/master/0682-baseball-game) |
@@ -257,11 +258,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaanip7/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0221-maximal-square](https://github.com/vaanip7/leetcode/tree/master/0221-maximal-square) |
 | [0678-valid-parenthesis-string](https://github.com/vaanip7/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vaanip7/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/vaanip7/leetcode/tree/master/0221-maximal-square) |
 | [1254-number-of-closed-islands](https://github.com/vaanip7/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vaanip7/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Greedy
