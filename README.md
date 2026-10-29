@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vaanip7/leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/vaanip7/leetcode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/vaanip7/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vaanip7/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vaanip7/leetcode/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/vaanip7/leetcode/tree/master/0575-distribute-candies) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaanip7/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vaanip7/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/vaanip7/leetcode/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/vaanip7/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/vaanip7/leetcode/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/vaanip7/leetcode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/vaanip7/leetcode/tree/master/0682-baseball-game) |
@@ -296,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/vaanip7/leetcode/tree/master/3024-type-of-triangle) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/vaanip7/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
