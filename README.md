@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/vaanip7/leetcode/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vaanip7/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/vaanip7/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1518-water-bottles](https://github.com/vaanip7/leetcode/tree/master/1518-water-bottles) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vaanip7/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vaanip7/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/vaanip7/leetcode/tree/master/2652-sum-multiples) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/vaanip7/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/vaanip7/leetcode/tree/master/0682-baseball-game) |
+| [1518-water-bottles](https://github.com/vaanip7/leetcode/tree/master/1518-water-bottles) |
 | [2974-minimum-number-game](https://github.com/vaanip7/leetcode/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/vaanip7/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
